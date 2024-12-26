@@ -1,3 +1,5 @@
+![IMG_1660](https://github.com/user-attachments/assets/f15377df-5cc3-4a97-86a2-d9d9e3c1c29d)
+
 👋 Hi, I’m Hawa and I'm passionate about data analytics, healthcare informatics, and database management. With experience in pharmacy operations, I enjoy leveraging data to drive insights and improve processes. I am currently working on my Masters in Health Informatics.
 👀 I’m interested in improving healthcare systems through data-driven solutions and exploring advanced analytics tools.
 🌱 I’m currently learning SQL, Python, and data visualization techniques to advance my skills. I recently got my Google Data Analytics Professionsl Certificate.
