@@ -2,7 +2,7 @@
 
 👀 I’m interested in improving healthcare systems through data-driven solutions and exploring advanced analytics tools.
 
-🌱 I’m currently learning SQL, Python, and data visualization techniques to advance my skills. I recently got my Google Data Analytics Professionsl Certificate.
+🌱 I’m currently learning SQL, Python, and data visualization techniques to advance my skills. I recently got my Google Data Analytics Professional Certificate.
 
 💞️ I’m looking to collaborate on healthcare related projects.
 
